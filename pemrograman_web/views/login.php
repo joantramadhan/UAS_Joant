@@ -33,11 +33,12 @@
             </div>
             <button type="submit" class="btn btn-primary-custom w-100 py-2 fw-bold">LOGIN</button>
             <div class="text-center mt-3">
-                <small class="text-muted">Use: admin/123456 or user/123456</small>
+                <small class="text-muted">Use: admin or user</small>
             </div>
         </form>
     </div>
 </div>
 
 </body>
+
 </html>

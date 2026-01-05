@@ -29,7 +29,8 @@
 * **Server**: Apache (XAMPP).
 
 ##  Screenshot Proses Web Flow
-![Cuplikan layar_5-1-2026_17743_localhost](https://github.com/user-attachments/assets/a874bdfe-b650-4564-b28c-1eb25e873b55)
+
+![Cuplikan layar_5-1-2026_174411_localhost](https://github.com/user-attachments/assets/e3e85af2-dcd8-467a-ac02-9a0b696e7c8c)
 1.Validasi username/password untuk membedakan akses Admin (Full) dan User (Read-only).
 ![Cuplikan layar_5-1-2026_173414_localhost](https://github.com/user-attachments/assets/15f0e0b9-b592-49ff-825e-4886c6fc3ab1)
 2.Menampilkan status login pengguna dan informasi teknis server (PHP/Database).

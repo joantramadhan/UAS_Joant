@@ -12,7 +12,7 @@
 <div class="container">
     <div class="login-container">
         <div class="login-header">
-            <h3><i class="fas fa-book-reader me-2"></i>CampusLib</h3>
+            <h3><i class="fas fa-book-reader me-2"></i>Collection Book</h3>
             <p class="text-muted">Final Exam Project System</p>
         </div>
         
@@ -42,3 +42,4 @@
 </body>
 
 </html>
+

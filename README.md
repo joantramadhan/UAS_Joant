@@ -58,8 +58,8 @@
 
 | Role | Username | Password | Hak Akses |
 | :--- | :--- | :--- | :--- |
-| **Admin** | `admin` | `123456` | Create, Read, Update, Delete |
-| **User** | `user` | `123456` | Read Only, Search, Pagination |
+| **Admin** | `admin` | `admin` | Create, Read, Update, Delete |
+| **User** | `user` | `user` | Read Only, Search, Pagination |
 
 ## 📂 Struktur Folder
 
